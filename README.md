@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full-Stack Developer from Canada</h3>
 
 ## About me
-<p> Je suis une personne motivée qui à toujours envie d'apprendre et qui aime collaborer au sein d'une équipe. Mes précédentes expériences m'ont permit d'acquérir le sens des responsabilité, de l’organisation et proactive mais ne me permettaient plus d'apprendre de nouvelles compétences. J'ai décidé de prendre un cours de développement web full-stack au Wagon. Je souhaite continuer a progresser sur mes compétences apprises lors du bootcamp et je suis impatiente d'en apprendre de nouvelles. </p>
+<p> I'm a motivated person who has a passion for learning and who enjoys collaborating in a team. My previous experiences have allowed me to acquire a sense of responsibility, organization and proactiveness. I have just completed a fullstack web development course at Le Wagon and am looking to bring these skills to a new position as a fullstack developer. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
