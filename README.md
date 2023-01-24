@@ -10,17 +10,16 @@
 <br>
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-<p> I'm a motivated person who has a passion for learning and who enjoys collaborating in a team. My previous experiences have allowed me to acquire a sense of responsibility, organization and proactiveness. I have just completed a fullstack web development course at Le Wagon and am looking to bring these skills to a new position as a fullstack developer. </p>
+<p> 📚 I'm a motivated person who has a passion for learning  and who enjoys collaborating in a team. My previous experiences have allowed me to acquire a sense of responsibility, organization and proactiveness. I have just completed a fullstack web development course at Le Wagon and am looking to bring these skills to a new position as a fullstack developer. </p>
 
-- A passionate Self-taught Full-Stack developer
-- I’m currently open for an Intern or a new job opportunity
+- 👩‍💻 A passionate Self-taught Full-Stack developer
+- 🧠 I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
